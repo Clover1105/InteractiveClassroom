@@ -1,0 +1,2 @@
+# InteractiveClassroom
+基于泛雅平台的AI互动智课生成与实时问答
